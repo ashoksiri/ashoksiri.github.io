@@ -1,0 +1,30 @@
+{
+  "name": "Ashok Siripuram - Software Engineer Portfolio",
+  "short_name": "Ashok Portfolio",
+  "description": "Professional portfolio of Ashok Siripuram - Software Engineer with 10+ years of experience in full-stack development, Python, Django, React, and cloud-native systems.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF8F5",
+  "theme_color": "#A67C52",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en-US",
+  "categories": ["portfolio", "technology", "software"],
+  "icons": [
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
